@@ -1,4 +1,8 @@
+# Linux command
 alias egr='grep -nr '
+alias ls='ls -l'
+
+# Git
 alias gad='git add'
 alias gbr='git branch'
 alias gcl='git clean'
